@@ -6,18 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="76202c80-854f-49b8-9a03-c63bb7960f8d" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ejercicio WoowUp.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Ejercicio WoowUp.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/WoowUp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/WoowUp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dominio/Alerta.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dominio/Alerta.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dominio/AlertaUsuario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dominio/AlertaUsuario.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dominio/Tema.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dominio/Tema.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dominio/Usuario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dominio/Usuario.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/logica/Experto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/logica/Experto.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/logica/ExpertoAlerta.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/logica/ExpertoAlerta.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/logica/ExpertoTema.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/logica/ExpertoTema.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/logica/ExpertoUsuario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/logica/ExpertoUsuario.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/logica/FabricaExpertos.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/util/AlertaComparator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/util/AlertaComparator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/ExpertoTemaTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/ExpertoTemaTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -179,7 +168,7 @@
       <workItem from="1702384498242" duration="6688000" />
       <workItem from="1702439164558" duration="6857000" />
       <workItem from="1702470602835" duration="9848000" />
-      <workItem from="1702481781302" duration="505000" />
+      <workItem from="1702481781302" duration="2077000" />
     </task>
     <servers />
   </component>

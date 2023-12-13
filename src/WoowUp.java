@@ -6,8 +6,5 @@ import java.util.List;
 
 public class WoowUp {
     public static void main (String[] args) {
-
-
-
     }
 }
