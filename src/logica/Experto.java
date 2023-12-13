@@ -1,4 +1,5 @@
 package logica;
 
-public interface Experto {
+public interface Experto<T> {
+    void guardar(T entidad);
 }

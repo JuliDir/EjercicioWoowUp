@@ -1,7 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="76202c80-854f-49b8-9a03-c63bb7960f8d" name="Default Changelist" comment="" />
+    <list default="true" id="76202c80-854f-49b8-9a03-c63bb7960f8d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/WoowUp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/WoowUp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dominio/Alerta.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dominio/Alerta.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dominio/AlertaUsuario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dominio/AlertaUsuario.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dominio/Tema.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dominio/Tema.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/logica/Experto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/logica/Experto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/logica/ExpertoAlerta.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/logica/ExpertoAlerta.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/logica/ExpertoTema.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/logica/ExpertoTema.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/logica/ExpertoUsuario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/logica/ExpertoUsuario.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,21 +30,32 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 4
+}]]></component>
   <component name="ProjectId" id="2ZRUa0za3MnEcXhds03VpIrV4KB" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../laboratorio-back" />
-    <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
-  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/2024/Desktop/JULIAN/repos irrigacion/EjercicioWoowUp",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
   <component name="ServiceViewManager">
     <option name="viewStates">
       <list>
@@ -42,6 +68,7 @@
       </list>
     </option>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -54,28 +81,11 @@
       <updated>1702384444687</updated>
       <workItem from="1702384447201" duration="31000" />
       <workItem from="1702384498242" duration="6688000" />
+      <workItem from="1702439164558" duration="6537000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="452" y="95" key="#Project_Structure" timestamp="1702384457531">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="452" y="95" key="#Project_Structure/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1702384457531" />
-    <state x="721" y="162" key="#com.intellij.ide.util.MemberChooser" timestamp="1702389021804">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="721" y="162" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1702389021804" />
-    <state x="690" y="218" key="FileChooserDialogImpl" timestamp="1702385603660">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="690" y="218" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1702385603660" />
-    <state x="591" y="302" key="com.intellij.ide.util.TipDialog" timestamp="1702384498883">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="591" y="302" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1702384498883" />
+    <option name="version" value="3" />
   </component>
 </project>
