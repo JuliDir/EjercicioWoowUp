@@ -1,7 +1,5 @@
 package util;
-
 import dominio.Alerta;
-import dominio.AlertaUsuario;
 import dominio.TipoAlerta;
 
 import java.util.Comparator;
@@ -25,7 +23,7 @@ public class AlertaComparator implements Comparator<Alerta> {
             case ALERTA_INFORMATIVA:
                 return 1;
             default:
-                return 2;
+                throw new IllegalArgumentException("Tipo de alerta no válida: " + tipoAlerta.getNombre());
         }
     }
 }

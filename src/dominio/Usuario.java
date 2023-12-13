@@ -12,6 +12,11 @@ public class Usuario {
         temas = new HashSet<>();
     }
 
+    public Usuario(String nombre, String apellido) {
+        this.nombre = nombre;
+        this.apellido = apellido;
+    }
+
     public void setNombre(String nombre) {
         this.nombre = nombre;
     }

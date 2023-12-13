@@ -1,5 +1,8 @@
 package logica;
 
-public interface Experto<T> {
-    void guardar(T entidad);
+import java.util.List;
+
+public abstract class Experto<T> {
+   public abstract void guardar(T entidad);
+   public abstract void guardarTodos(List<T> entidades);
 }

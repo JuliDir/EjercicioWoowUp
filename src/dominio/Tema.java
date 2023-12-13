@@ -1,5 +1,6 @@
 package dominio;
 
+import java.util.HashSet;
 import java.util.List;
 import java.util.Set;
 
@@ -9,12 +10,13 @@ public class Tema {
     private Set<Usuario> usuarios;
 
     public Tema() {
-
+        this.usuarios = new HashSet<>();
     }
 
     public Tema(String nombre, String descripcion) {
         this.nombre = nombre;
         this.descripcion = descripcion;
+        this.usuarios = new HashSet<>();
     }
 
     public void setNombre(String nombre) {

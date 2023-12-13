@@ -10,6 +10,12 @@ public class AlertaUsuario {
 
     public AlertaUsuario() {}
 
+    public AlertaUsuario(Alerta alerta, Usuario usuario) {
+        this.alerta = alerta;
+        this.usuario = usuario;
+        this.leida = false;
+    }
+
     public void setAlerta(Alerta alerta) {
         this.alerta = alerta;
     }

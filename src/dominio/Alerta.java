@@ -1,6 +1,7 @@
 package dominio;
 
 import java.time.ZonedDateTime;
+import java.util.Objects;
 
 public class Alerta {
     private TipoAlerta tipoAlerta;
@@ -24,7 +25,6 @@ public class Alerta {
     public void setFechaHoraInicio(ZonedDateTime fechaHoraInicio) {
         this.fechaHoraInicio = fechaHoraInicio;
     }
-
 
     public void setTipoAlerta(TipoAlerta tipoAlerta) {
         this.tipoAlerta = tipoAlerta;

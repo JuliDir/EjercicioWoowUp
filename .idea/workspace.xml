@@ -5,17 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="76202c80-854f-49b8-9a03-c63bb7960f8d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ejercicio WoowUp.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Ejercicio WoowUp.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/WoowUp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/WoowUp.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/dominio/Alerta.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dominio/Alerta.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/dominio/AlertaUsuario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dominio/AlertaUsuario.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/dominio/Tema.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dominio/Tema.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dominio/Usuario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dominio/Usuario.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/logica/Experto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/logica/Experto.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/logica/ExpertoAlerta.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/logica/ExpertoAlerta.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/logica/ExpertoTema.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/logica/ExpertoTema.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/logica/ExpertoUsuario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/logica/ExpertoUsuario.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/logica/FabricaExpertos.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/util/AlertaComparator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/util/AlertaComparator.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,29 +35,123 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 4
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="2ZRUa0za3MnEcXhds03VpIrV4KB" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/2024/Desktop/JULIAN/repos irrigacion/EjercicioWoowUp",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/2024/Desktop/JULIAN/repos irrigacion/EjercicioWoowUp&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
+  <component name="RunManager" selected="JUnit.ExpertoUsuarioTest">
+    <configuration name="ExpertoTemaTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Ejercicio WoowUp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test" />
+      <option name="MAIN_CLASS_NAME" value="test.ExpertoTemaTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExpertoTemaTest.obtenerAlertasNoExpiradas" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Ejercicio WoowUp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test" />
+      <option name="MAIN_CLASS_NAME" value="test.ExpertoTemaTest" />
+      <option name="METHOD_NAME" value="obtenerAlertasNoExpiradas" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExpertoUsuarioTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Ejercicio WoowUp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test" />
+      <option name="MAIN_CLASS_NAME" value="test.ExpertoUsuarioTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExpertoUsuarioTest.leerAlertaExistente" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Ejercicio WoowUp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test" />
+      <option name="MAIN_CLASS_NAME" value="test.ExpertoUsuarioTest" />
+      <option name="METHOD_NAME" value="leerAlertaExistente" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExpertoUsuarioTest.obtenerAlertasNoExpiradasYNoLeidas" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Ejercicio WoowUp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test" />
+      <option name="MAIN_CLASS_NAME" value="test.ExpertoUsuarioTest" />
+      <option name="METHOD_NAME" value="obtenerAlertasNoExpiradasYNoLeidas" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ExpertoUsuarioTest" />
+        <item itemvalue="JUnit.ExpertoTemaTest.obtenerAlertasNoExpiradas" />
+        <item itemvalue="JUnit.ExpertoUsuarioTest.leerAlertaExistente" />
+        <item itemvalue="JUnit.ExpertoUsuarioTest.obtenerAlertasNoExpiradasYNoLeidas" />
+        <item itemvalue="JUnit.ExpertoTemaTest" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
       <list>
@@ -81,11 +177,24 @@
       <updated>1702384444687</updated>
       <workItem from="1702384447201" duration="31000" />
       <workItem from="1702384498242" duration="6688000" />
-      <workItem from="1702439164558" duration="6537000" />
+      <workItem from="1702439164558" duration="6857000" />
+      <workItem from="1702470602835" duration="9848000" />
+      <workItem from="1702481781302" duration="505000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/logica/ExpertoTema.java</url>
+          <line>35</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
